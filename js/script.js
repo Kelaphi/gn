@@ -68,6 +68,12 @@ const config = {
                 rank: "Admin",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
+            },
+            {
+                inGameName: "Elite123456999",
+                rank: "Admin",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
             }
         ],
         developers: [
