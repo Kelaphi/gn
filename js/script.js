@@ -88,16 +88,12 @@ const config = {
                 rank: "Moderator",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
-            },
+            }
+        ],
+        builders: [
             {
-                inGameName: "Astronavta",
-                rank: "Webmaster",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Discord manager",
+                inGameName: "REDTRAKT0R",
+                rank: "Builder",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
@@ -105,75 +101,7 @@ const config = {
         helpers: [
             {
                 inGameName: "Astronavta",
-                rank: "Helper++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            }
-        ],
-        builders: [
-            {
-                inGameName: "Astronavta",
-                rank: "Builder++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder",
+                rank: "Website Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
