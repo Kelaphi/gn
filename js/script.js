@@ -88,6 +88,12 @@ const config = {
                 rank: "Moderator",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
+            },
+            {
+                inGameName: "fireston29",
+                rank: "Moderator",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
             }
         ],
         builders: [
