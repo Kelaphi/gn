@@ -41,7 +41,7 @@ const config = {
         leaders: "rgba(255, 124, 124, 0.5)",
         moderators: "rgba(85, 85, 255, 0.5)",
         helpers: "rgba(11, 175, 255, 0.5)",
-        builders: "rgba(247, 2, 176, 0.5)",
+        builders: "rgba(0, 170, 170, 0.5)",
     },
     adminTeamPage: {
         leaders: [
@@ -92,7 +92,7 @@ const config = {
         ],
         builders: [
             {
-                inGameName: "REDTRAKT0R",
+                inGameName: "RED_TRAKT0R",
                 rank: "Builder",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
@@ -115,7 +115,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "astronavta@example.com"
+        email: "kelaphigamer@gmail.com"
     }
 }
 
