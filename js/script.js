@@ -94,11 +94,35 @@ const config = {
                 rank: "Moderator",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
+            },
+            {
+                inGameName: "Norixoral",
+                rank: "Moderator",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
+            },
+            {
+                inGameName: "Thatoneguyisgood",
+                rank: "Moderator",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
+            },
+            {
+                inGameName: "17j4y",
+                rank: "Moderator",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
             }
         ],
         builders: [
             {
                 inGameName: "RED_TRAKT0R",
+                rank: "Builder",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
+            },
+            {
+                inGameName: "jonas_frz",
                 rank: "Builder",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
